@@ -1,6 +1,6 @@
 # claude-switch.py
 
-Consolidated Python script for switching [Claude Code](https://docs.anthropic.com/en/docs/claude-code) between API providers — Anthropic's native API and GLM-5 via Z.AI.
+Python script for switching [Claude Code](https://docs.anthropic.com/en/docs/claude-code) between API providers — Anthropic's native API and GLM-5 via Z.AI.
 
 Combines status checking, Anthropic switching, and GLM switching into a single file. Non-provider settings (voice, keybindings, etc.) are preserved across switches.
 
